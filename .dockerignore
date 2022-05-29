@@ -1,0 +1,8 @@
+data/
+**/Dockerfile*
+.dockerignore
+.git
+.gitignore
+.gitattributes
+*.md
+.ipynb
